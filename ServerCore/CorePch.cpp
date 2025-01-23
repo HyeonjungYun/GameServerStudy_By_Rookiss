@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "CorePch.h"
- 
 
-void HelloWorld() {
+void HelloWorld()
+{
 	cout << "Hello Server!" << endl;
 }
